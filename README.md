@@ -1,5 +1,5 @@
-## Python Higher Or Lower Game
-# Table of Contents
+# Python Higher Or Lower Game
+## Table of Contents
 * [General info](#general-info)
 * [Features](#features)
 * [Setup](#setup)
